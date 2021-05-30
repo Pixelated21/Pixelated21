@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pixelated21
-- 👀 I’m interested in Anime.
+- 👀 I’m interested in Anime..
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on anything i can handle.
+- 💞️ I’m looking to collaborate on anything i can handle currently
 - 📫 How to reach me soon
 
 <!---

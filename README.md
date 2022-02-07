@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Amber Loans**
 
-- 🌱 I’m currently learning **Laravel, Alpine, Livewire, PHP**
+- 🌱 I’m currently learning **Laravel, Alpine, Livewire, PHP, React, React-Native**
 
 - 👯 I’m looking to collaborate on **Fun Stuff**
 
